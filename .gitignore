@@ -11,5 +11,7 @@
 *.rar
 hs_err_pid*
 replay_pid*
-*."MySQL Workbench File"
-*."BEFOREFIX File"
+*.mwb
+*.mwb.beforefix
+*.gitignore
+
